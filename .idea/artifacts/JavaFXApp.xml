@@ -8,7 +8,7 @@
     </properties>
     <root id="root">
       <element id="archive" name="JavaFXApp.jar">
-        <element id="module-output" name="funkcionalno_programiranje" />
+        <element id="module-output" name="razvoj-softvera-t7" />
       </element>
     </root>
   </artifact>
